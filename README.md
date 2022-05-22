@@ -7,7 +7,7 @@ have a look: [Guizero home page]('https://lawsie.github.io/guizero/start/')
 ## Functions
 You can generate a password (string) by indicating the number of characters.
 
-![string password](img/password_strength_small_small.png 'String Password')
+![string password](img/view_string_password_small.png 'String Password')
 
 
 By checking the "words passphrase" box, you can generate instead a password containing words randomly chosen from a dictionary of over 370,000 words.
