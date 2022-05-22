@@ -17,7 +17,8 @@ By checking the "words passphrase" box, you can generate instead a password cont
 ## run it
 clone the project and run `gui.py`
 
-
+## know issues
+It seems it does not run well on MacOS.
 
 
 ## words list
