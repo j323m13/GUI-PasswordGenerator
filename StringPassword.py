@@ -9,6 +9,9 @@ class StringPassword:
         self.numbers = numbers
         string_password = string_password+self.lowerCase+self.upperCase+self.specialChar+self.numbers
         print(string_password)
+
+    def __getattribute__(self, __name: str) -> any:
+        pass
         
 
 
