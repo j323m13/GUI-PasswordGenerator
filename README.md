@@ -22,5 +22,5 @@ It seems it does not run well on MacOS.
 
 
 ## words list
-You can find the words list here: [words.txt]('list/words.txt')
+You can find the words list here: [words.txt](list/words.txt)
 
